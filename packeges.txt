@@ -1,0 +1,6 @@
+expo install react-native-safe-area-context  //for all platform
+
+then import
+
+import { SafeAreaView } from 'react-native-safe-area-context';
+
